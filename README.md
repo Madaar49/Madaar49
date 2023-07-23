@@ -21,7 +21,7 @@
 - Research interest: Modelling of surface and groundwater, Environmental Engineering, Machine Learning, Geospatial Data Science and Citizen Science. 
 - Current Research: Using Machine Learning for GRP Mapping in Hessen district...
 - You can reach me through the above listed social platforms..
-Fun fact: Peers say I have a good sense of humor...
+- Fun Fact: How about a fun question.. [Why are chickens so funny?](https://www.youtube.com/shorts/04GBDCWiknk) 
 
 --> Feedbacks on my repos and projects are always welcome.
 
