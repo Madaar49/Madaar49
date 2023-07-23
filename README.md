@@ -1,7 +1,6 @@
 ![](https://github.com/Madaar49/Madaar49/blob/main/Logo_header.png)
 
 <p align="center">
-  
 ## 👋 Hi there! I am Augustine. Welcome to my page...
 **`Hydrogeologist` | `Environmental Engineer` | `Data Scientist`**
 </p>
