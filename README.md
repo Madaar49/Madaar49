@@ -7,7 +7,7 @@
 
 <p align="center">
   
-**`Hydrogeologist` | `Environmental Engineer` | `Data Scientist`**
+## `Hydrogeologist` | `Environmental Engineer` | `Data Scientist`
 </p>
 
 <p align="center">
