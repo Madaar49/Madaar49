@@ -24,7 +24,7 @@
 - You can reach me through the above listed social platforms..
 - Fun Fact: How about a fun question.. [Why are chickens so funny?](https://www.youtube.com/shorts/04GBDCWiknk) 
 
---> Feedbacks on my repos and projects are always welcome.
+--> Few of my repos are private, since they are work in progress that includes confidential data. But Feedbacks on my public repos and projects are always welcome.
 
 <!--
 **Madaar49/Madaar49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
