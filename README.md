@@ -7,7 +7,7 @@
 
 <p align="center">
   
-## `Hydrogeologist` | `Environmental Engineer` | `Geospatial Data Scientist`
+## MSc. Tropical Hydrogeology and Environmental Engineering
 </p>
 
 <p align="center">
