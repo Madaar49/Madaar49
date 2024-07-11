@@ -18,7 +18,7 @@
 </p>
 
 - Scientific assistant at [Technische Universitaet Darmstadt](https://www.geo.tu-darmstadt.de/iag/willkommen_iag/index.de.jsp) & [HLNUG](https://www.hlnug.de)
-- Research interest: GIS & Data Science apPlications in Water and Environmental studies. 
+- Research interest: GIS & Data Science applications in Water and Environmental studies. 
 - Favourite joke: [Why are chickens so funny?](https://www.youtube.com/shorts/04GBDCWiknk) 
 
 --> Research repos are private until made public, however feedbacks on my public repos and projects are always welcome.
