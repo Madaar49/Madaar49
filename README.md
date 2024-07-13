@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/augustine-maada-gbondo-443479117/">LinkedIn</a> •
+  <a href="https://www.researchgate.net/profile/Augustine-Gbondo-2">ResearchGate</a> •
   <a href="https://twitter.com/geogbondo">Twitter</a> •
   <a href="https://www.xing.com/profile/AugustineMaada_Gbondo/cv">Xing</a> •
 </p>
