@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/augustine-maada-gbondo-443479117/">LinkedIn</a> •
   <a href="https://twitter.com/geogbondo">Twitter</a> •
   <a href="https://www.xing.com/profile/AugustineMaada_Gbondo/cv">Xing</a> •
-  <a href="https://medium.com/@augustinegbondo">Medium</a> •
 </p>
 
 - Scientific assistant at [Technische Universitaet Darmstadt](https://www.geo.tu-darmstadt.de/iag/willkommen_iag/index.de.jsp) & [HLNUG](https://www.hlnug.de)
@@ -26,4 +25,5 @@
 <!--
 **Madaar49/Madaar49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
 -->
