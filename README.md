@@ -22,7 +22,7 @@
 
 - Projects:
   
-   **HydroChemPy :** A python package for calculating and priocessing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
+   **HydroChemPy :** A python package for calculating and processing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
 
    **Aquadeep AI.** ML-physics model combining 3D subsurface structures, ML and physics conbstraints for groundwater simulation
 
