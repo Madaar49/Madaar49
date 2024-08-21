@@ -19,6 +19,11 @@
 
 - Scientific assistant at [Technische Universitaet Darmstadt](https://www.geo.tu-darmstadt.de/iag/willkommen_iag/index.de.jsp) & [HLNUG](https://www.hlnug.de)
 - Interest: Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, Ml & DL 
+
+- Projects:
+-   **HydroChemPy :** A python package for calculating and priocessing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
+-   **Aquadeep AI.** ML-physics model combining 3D subsurface structures, ML and physics conbstraints for groundwater simulation
+
 - Favourite joke: [Why are chickens so funny?](https://www.youtube.com/shorts/04GBDCWiknk) 
 
 --> Research repos are private until made public, however feedbacks on my public repos and projects are always welcome.
