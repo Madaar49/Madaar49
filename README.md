@@ -21,8 +21,8 @@
 - Interest: Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, Ml & DL 
 
 - Projects:
--   **HydroChemPy :** A python package for calculating and priocessing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
--   **Aquadeep AI.** ML-physics model combining 3D subsurface structures, ML and physics conbstraints for groundwater simulation
+   **HydroChemPy :** A python package for calculating and priocessing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
+   **Aquadeep AI.** ML-physics model combining 3D subsurface structures, ML and physics conbstraints for groundwater simulation
 
 - Favourite joke: [Why are chickens so funny?](https://www.youtube.com/shorts/04GBDCWiknk) 
 
