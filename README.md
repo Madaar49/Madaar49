@@ -7,7 +7,7 @@
 
 <p align="center">
   
-## MSc. Tropical Hydrogeology and Environmental Engineering
+### MSc. Tropical Hydrogeology and Environmental Engineering
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="https://www.xing.com/profile/AugustineMaada_Gbondo/cv">Xing</a> •
 </p>
 
-- Scientific assistant at [Technische Universitaet Darmstadt](https://www.geo.tu-darmstadt.de/iag/willkommen_iag/index.de.jsp) & [HLNUG](https://www.hlnug.de)
+- Wissenschaftlicher Mitarbeiter (Research Assistant) at [Technische Universitaet Darmstadt](https://www.geo.tu-darmstadt.de/iag/willkommen_iag/index.de.jsp) & [HLNUG](https://www.hlnug.de)
 - Interest: Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, Ml & DL 
 
 - Projects:
