@@ -18,7 +18,7 @@
 </p>
 
 - Wissenschaftlicher Mitarbeiter (Research Assistant) at [Technische Universitaet Darmstadt](https://www.geo.tu-darmstadt.de/iag/willkommen_iag/index.de.jsp) & [HLNUG](https://www.hlnug.de)
-- Interest: Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, Ml & DL 
+- Interest: Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, Machine Learning & Deep Learning 
 
 - Projects:
   
