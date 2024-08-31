@@ -15,9 +15,9 @@ Projects I am currently working on/interested are listed below.
 
 **HydroChemPy :** A python package for calculating and processing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
 
-**Aquadeep AI :** ML-physics model combining 3D subsurface structures, ML and physics conbstraints for groundwater simulation. This is a long-term project, and I’m trying to put ideas together. Inputs are highly welcomed.
+**Aquadeep AI :** ML-physics model combining 3D subsurface structures, ML and physics constraints for groundwater simulation. This is a long-term project, and I’m trying to put ideas together. Ideas are highly welcomed.
 
-**BlockCVPy :** A package to perform spatial cross validation in python. Integration to the Sk-Learn package
+**BlockCVPy :** A package to perform spatial cross validation in python. Integration to the Sk-Learn package. Collaborators are welcomed.
 
 ## Contact
 I am open to opportunities for collaborations. Feel free to reach out to me via my contacts at the side bar of this site. My research repos are private until need to make them public, however feedbacks on my public repos and projects are always welcome.
