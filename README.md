@@ -9,15 +9,15 @@ Hello visitor, I am Augustine Maada Gbondo, with a Master's degree in Tropical H
 ## Interest
 I am interested in topics and tasks related to Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, and applicatio of Machine Learning & Deep Learning to the earlier named themes.
 
-Projects I am currently working on/interested are listed below.
+**Projects I am currently working on/interested are listed below.**
 
-**Poro-Perm :** Methods of estimating porositty and permeability spatially. Exploring both analytical and data-driven methods. These petrophysical properties are important for water/oil exploration, underground gas storage, as well as radon emanation.
+***Poro-Perm :*** Methods of estimating porositty and permeability spatially. Exploring both analytical and data-driven methods. These petrophysical properties are important for water/oil exploration, underground gas storage, as well as radon emanation.
 
-**HydroChemPy :** A python package for calculating and processing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
+***HydroChemPy :*** A python package for calculating and processing hydrochemical data. Standalone app or integration as a toolbox into ArcGisPro
 
-**Aquadeep AI :** ML-physics model combining 3D subsurface structures, ML and physics constraints for groundwater simulation. This is a long-term project, and I’m trying to put ideas together. Ideas are highly welcomed.
+***Aquadeep AI :*** ML-physics model combining 3D subsurface structures, ML and physics constraints for groundwater simulation. This is a long-term project, and I’m trying to put ideas together. Ideas are highly welcomed.
 
-**BlockCVPy :** A package to perform spatial cross validation in python. Integration to the Sk-Learn package. Collaborators are welcomed.
+***BlockCVPy :*** A package to perform spatial cross validation in python. Integration to the Sk-Learn package. Collaborators are welcomed.
 
 ## Contact
 I am open to opportunities for collaborations. Feel free to reach out to me via my contacts at the side bar of this site. My research repos are private until need to make them public, however feedbacks on my public repos and projects are always welcome.
