@@ -4,7 +4,7 @@
   
 # About me
 
-Hello there! I am Augustine Maada Gbondo, with a Master's degree in Tropical Hydrogeology and Environmental Engineering from Technische Universitaet Darmstadt. I am currently a “Wissenschaftliche Mitarbeiter” employed by Technische Universität Darmstadt, working at [HLNUG](https://www.hlnug.de). This site is predominantly for showcasing my projects, version control and collaboration with peers. Since 2014, I have been active in the water and environmental sector, started using python in 2021. In addition I also leverage GIS and Data Science as tools for water, environmental and general geoscience tasks. For more information please see [my personal website](https://gbondo-am.github.io). 
+Hello there! I am Augustine Maada Gbondo, with a Master's degree in Tropical Hydrogeology and Environmental Engineering from Technische Universitaet Darmstadt. I am currently a “Wissenschaftliche Mitarbeiter” employed by Technische Universität Darmstadt, working at [HLNUG](https://www.hlnug.de). This site is predominantly for showcasing my projects, version control and collaboration with peers. I have a strong interest in GIS and Data Science as tools for water, environmental and general geoscience tasks. For more information please see [my personal website](https://gbondo-am.github.io). 
   
 ## Interest
 Hydrogeology and Environmental Engineering, Computational Geoscience, Hybrid-models, and application of Machine Learning & Deep Learning to these domains.
